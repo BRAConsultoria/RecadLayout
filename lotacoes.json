@@ -1,37 +1,39 @@
-{
-    "nome": "Lotações",
-    "descricao": "Layout para remessa de dados das lotações",
-    "versao": "0.0.1",
-    "charset": "utf-8",
-    "developer": {
-        "nome": "",
-        "email": "",
-        "celular": "(99)X9999-9999"
-    },
-    "lotacao": [
-        {
-            "cod": 1,
-            "entidadeCod": 1,            
-            "nome": "Secretaria de Obras",
-            "cnpj": "99.999.999/9999-99",            
-            "telefone": {
-                "ddd": "",
-                "numero": ""
-            },
-            "coordenadasGps": {
-                "latitude": "",
-                "longitude": ""
-            },
-            "endereco": {
-                "cep": "99999-999",
-                "endereco": "",
-                "numero": "",
-                "bairro": "",
-                "cidade": "",
-                "uf": ""
-            },
-            "totalVinculados": 1
-        }
-    ],
-    "totalRegistrosLote": 1    
-}
+[
+    {
+        "nome": "Lotações",
+        "descricao": "Layout para remessa de dados das lotações",
+        "versao": "0.0.1",
+        "charset": "utf-8",
+        "developer": {
+            "nome": "",
+            "email": "",
+            "celular": "(99)X9999-9999"
+        },
+        "lotacao": [
+            {
+                "cod": 1,
+                "entidadeCod": 1,            
+                "nome": "Secretaria de Obras",
+                "cnpj": "99.999.999/9999-99",            
+                "telefone": {
+                    "ddd": "",
+                    "numero": ""
+                },
+                "coordenadasGps": {
+                    "latitude": "",
+                    "longitude": ""
+                },
+                "endereco": {
+                    "cep": "99999-999",
+                    "endereco": "",
+                    "numero": "",
+                    "bairro": "",
+                    "cidade": "",
+                    "uf": ""
+                },
+                "totalVinculados": 1
+            }
+        ],
+        "totalRegistrosLote": 1    
+    }
+]

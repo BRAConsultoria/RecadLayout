@@ -1,5 +1,16 @@
 [
     {
+        "nome": "Histórico Funcional",
+        "descricao": "Layout para remessa de histórico funcional",
+        "versao": "0.0.1",
+        "charset": "utf-8",
+        "developer": {
+            "nome": "",
+            "email": "",
+            "celular": "(99)X9999-9999"
+        }        
+    },
+    {
         "888.888.888-88": {
             "matricula": [
             {
@@ -40,5 +51,8 @@
             ],
             "totalRegistrosLote": 1
         }
+    },
+    {
+        "totalRegistrosLote": 2
     }
 ]
