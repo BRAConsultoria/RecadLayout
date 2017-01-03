@@ -1,0 +1,22 @@
+{
+    "nome": "Cargos",
+    "descricao": "Layout para remessa de dados dos cargos",
+    "versao": "0.0.1",
+    "charset": "utf-8",
+    "developer": {
+        "nome": "",
+        "email": "",
+        "celular": "(99)X9999-9999"
+    },
+    "cargo": [
+        {
+            "cod": 1,
+            "lotacaoCod": 1,
+            "tipoServidorCod": 1,
+            "nome": "Varredor de rua",
+            "cbo": "5142-15",
+            "totalVinculados": 1
+        }
+    ],
+    "totalRegistrosLote": 1
+}
