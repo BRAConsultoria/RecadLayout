@@ -1,0 +1,50 @@
+[
+    {
+        "nome": "Tipos de Escolaridade",
+        "descricao": "Layout auxiliar para remessa de tipos de escolaridade",
+        "versao": "0.0.1",
+        "tipoEscolaridade": [
+            {
+                "tipoEscolaridadeCod": 1,
+                "nome": "Até 5º ano do Ensino Fundamental incompleto"
+            },
+            {
+                "tipoEscolaridadeCod": 2,
+                "nome": "5º ano do Ensino Fundamental"
+            },
+            {
+                "tipoEscolaridadeCod": 3,
+                "nome": "Do 6º ao 9º ano do Ensino Fundamental"
+            },            
+            {
+                "tipoEscolaridadeCod": 4,
+                "nome": "Ensino Médio completo"
+            },            
+            {
+                "tipoEscolaridadeCod": 5,
+                "nome": "Ensino Médio incompleto"
+            },            
+            {
+                "tipoEscolaridadeCod": 6,
+                "nome": "Educação Superior incompleta"
+            },            
+            {
+                "tipoEscolaridadeCod": 7,
+                "nome": "Educação Superior completa"
+            },            
+            {
+                "tipoEscolaridadeCod": 8,
+                "nome": "Mestrado completo"
+            },            
+            {
+                "tipoEscolaridadeCod": 9,
+                "nome": "Doutorado completo"
+            },            
+            {
+                "tipoEscolaridadeCod": 10,
+                "nome": "Especialização/pós-graduação"
+            }
+        ],
+        "totalRegistrosLote": 10
+    }
+]

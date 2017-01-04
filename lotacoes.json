@@ -11,7 +11,7 @@
         },
         "lotacao": [
             {
-                "cod": 1,
+                "lotacaoCod": 1,
                 "entidadeCod": 1,            
                 "nome": "Secretaria de Obras",
                 "cnpj": "99.999.999/9999-99",            
