@@ -1,37 +1,31 @@
 [
     {
         "nome": "Tipos de Servidores",
-        "descricao": "Layout para remessa de tipos de servidores",
+        "descricao": "Layout auxiliar para remessa de tipos de servidores",
         "versao": "0.0.1",
-        "charset": "utf-8",
-        "developer": {
-            "nome": "",
-            "email": "",
-            "celular": "(99)X9999-9999"
-        },
         "tipoServidor": [
             {
-                "cod": 1,
+                "tipoServidorCod": 1,
                 "nome": "Efetivo"
             },
             {
-                "cod": 2,
+                "tipoServidorCod": 2,
                 "nome": "Estável"
             },
             {
-                "cod": 3,
+                "tipoServidorCod": 3,
                 "nome": "Temporário"
             },        
             {
-                "cod": 4,
+                "tipoServidorCod": 4,
                 "nome": "Comissionado"
             },        
             {
-                "cod": 5,
+                "tipoServidorCod": 5,
                 "nome": "Empregado Público"
             },        
             {
-                "cod": 6,
+                "tipoServidorCod": 6,
                 "nome": "Eletivo"
             }
         ],

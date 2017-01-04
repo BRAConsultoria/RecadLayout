@@ -1,29 +1,23 @@
 [
     {
         "nome": "Situação Funcional",
-        "descricao": "Layout para remessa de situações funcionais",
+        "descricao": "Layout auxiliar para remessa de situações funcionais",
         "versao": "0.0.1",
-        "charset": "utf-8",
-        "developer": {
-            "nome": "",
-            "email": "",
-            "celular": "(99)X9999-9999"
-        },
         "situacaoFuncional": [
             {
-                "cod": 1,
+                "situacaoFuncionalCod": 1,
                 "nome": "Ativo"
             },
             {
-                "cod": 2,
+                "situacaoFuncionalCod": 2,
                 "nome": "Inativo"
             },
             {
-                "cod": 3,
+                "situacaoFuncionalCod": 3,
                 "nome": "Pensionário"
             },
             {
-                "cod": 4,
+                "situacaoFuncionalCod": 4,
                 "nome": "Desligado"
             }
         ],

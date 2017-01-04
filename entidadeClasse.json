@@ -1,0 +1,116 @@
+[
+    {
+        "nome": "Entidades de Classe",
+        "descricao": "Layout auxiliar para remessa de entidades de classe",
+        "versao": "0.0.1",
+        "entidadeClasse": [
+            {
+                "entidadeClasseCod": "1",
+                "nome": "SSP"
+            }, {
+                "entidadeClasseCod": "2",
+                "nome": "AERONAUTICA"
+            }, {
+                "entidadeClasseCod": "3",
+                "nome": "EXERCITO"
+            }, {
+                "entidadeClasseCod": "4",
+                "nome": "MARINHA"
+            }, {
+                "entidadeClasseCod": "5",
+                "nome": "POLICIA FEDERAL"
+            }, {
+                "entidadeClasseCod": "6",
+                "nome": "CRA"
+            }, {
+                "entidadeClasseCod": "7",
+                "nome": "CRAS"
+            }, {
+                "entidadeClasseCod": "8",
+                "nome": "CRB"
+            }, {
+                "entidadeClasseCod": "9",
+                "nome": "CRC"
+            }, {
+                "entidadeClasseCod": "10",
+                "nome": "CRECI"
+            }, {
+                "entidadeClasseCod": "11",
+                "nome": "CORECON"
+            }, {
+                "entidadeClasseCod": "12",
+                "nome": "COREN"
+            }, {
+                "entidadeClasseCod": "13",
+                "nome": "CREA"
+            }, {
+                "entidadeClasseCod": "14",
+                "nome": "CONRE"
+            }, {
+                "entidadeClasseCod": "15",
+                "nome": "CRF"
+            }, {
+                "entidadeClasseCod": "16",
+                "nome": "CREFITO"
+            }, {
+                "entidadeClasseCod": "17",
+                "nome": "CRM"
+            }, {
+                "entidadeClasseCod": "18",
+                "nome": "CRMV"
+            }, {
+                "entidadeClasseCod": "19",
+                "nome": "OMBCRE"
+            }, {
+                "entidadeClasseCod": "20",
+                "nome": "CRN"
+            }, {
+                "entidadeClasseCod": "21",
+                "nome": "CRO"
+            }, {
+                "entidadeClasseCod": "22",
+                "nome": "CONRERP"
+            }, {
+                "entidadeClasseCod": "23",
+                "nome": "CRP"
+            }, {
+                "entidadeClasseCod": "24",
+                "nome": "CRQ"
+            }, {
+                "entidadeClasseCod": "25",
+                "nome": "CORE"
+            }, {
+                "entidadeClasseCod": "26",
+                "nome": "OAB"
+            }, {
+                "entidadeClasseCod": "27",
+                "nome": "CRBIO"
+            }, {
+                "entidadeClasseCod": "28",
+                "nome": "CRFA"
+            }, {
+                "entidadeClasseCod": "29",
+                "nome": "CORESS"
+            }, {
+                "entidadeClasseCod": "30",
+                "nome": "CRTR"
+            }, {
+                "entidadeClasseCod": "31",
+                "nome": "DETRAN"
+            }, {
+                "entidadeClasseCod": "32",
+                "nome": "PM"
+            }, {
+                "entidadeClasseCod": "33",
+                "nome": "CBM"
+            }, {
+                "entidadeClasseCod": "34",
+                "nome": "IBA"
+            }, {
+                "entidadeClasseCod": "35",
+                "nome": "SDS"
+            }
+        ],
+        "totalRegistrosLote": 35
+    }
+]

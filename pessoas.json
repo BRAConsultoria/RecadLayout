@@ -1,0 +1,94 @@
+[
+    {
+        "nome": "Pessoas",
+        "descricao": "Layout para remessa de dados das pessoas físicas",
+        "versao": "0.0.1",
+        "charset": "utf-8",
+        "developer": {
+            "nome": "",
+            "email": "",
+            "celular": "(99)X9999-9999"
+        }
+    },
+    {
+        "888.888.888-88": {
+            "nome": "João de Exemplo",
+            "sexo": "M",
+            "dataNascimento": "1983-05-31",
+            "tipoEscolaridadeCod": 1,
+            "tipoEstadoCivilCod": 1,
+            "documentos": [
+                {
+                    "rg": {
+                        "numeros": "137387-12",
+                        "entidadeClasseCod": 1,
+                        "uf": "MT",
+                        "dataEmissao": "2001-12-31"
+                    },
+                    "tituloEleitor": {
+                        "numeros": "123456",
+                        "secao": "A42",
+                        "zona": "B34"
+                    },
+                    "ctps": {
+                        "numeros": "123456",
+                        "serie": "AAAA",
+                        "uf": "MT"
+                    },
+                    "pis": "",
+                    "pasep": "",
+                    "nit": ""
+                }
+            ],
+            "telefones": [
+                {
+                    "tipo": "M",
+                    "ddd": "81",
+                    "prefixo": "99777",
+                    "sufixo": "6667"
+                },
+                {
+                    "tipo": "F",
+                    "ddd": "81",
+                    "prefixo": "3011",
+                    "sufixo": "0702"
+                }
+            ],
+            "emails": [
+                {
+                    "email": "exemplo@dominio.com.br"
+                },
+                {
+                    "email": "email-alternativo@dominio.com.br"
+                }
+            ],
+            "enderecos": [
+                {
+                    "53130-460": {
+                        "endereco": "Rua Olímpio Ferreira Chaves",
+                        "numero": "86",
+                        "complemento": "Casa de Pedra",
+                        "bairro": "Casa Caiada",
+                        "cidade": "Olinda",
+                        "uf": "PE"
+                    },
+                    "53030-020": {
+                        "endereco": "Rua Professor José Cândido Pessoa",
+                        "numero": "1620",
+                        "complemento": "Ao lado do Olinda Shopping",
+                        "bairro": "Casa Caiada",
+                        "cidade": "Olinda",
+                        "uf": "PE"
+                    }
+                }
+            ],
+            "filiacao": {
+                "mae": "Nome da Mãe",
+                "pai": "Nome do Pai"
+            }
+        }
+    },
+    {
+        "totalRegistrosLote": 1
+    }
+]

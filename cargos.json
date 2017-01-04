@@ -11,7 +11,7 @@
         },
         "cargo": [
             {
-                "cod": 1,
+                "cargoCod": 1,
                 "lotacaoCod": 1,
                 "tipoServidorCod": 1,
                 "nome": "Varredor de rua",
