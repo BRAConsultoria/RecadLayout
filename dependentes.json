@@ -1,0 +1,61 @@
+[
+    {
+        "nome": "Dependentes",
+        "descricao": "Layout para remessa de dados dos dependentes",
+        "versao": "0.0.1",
+        "charset": "utf-8",
+        "developer": {
+            "nome": "",
+            "email": "",
+            "celular": "(99)X9999-9999"
+        }
+    },
+    {
+        "888.888.888-88": [
+            {
+                "nome": "João Filho de Exemplo",
+                "sexo": "M",
+                "dataNascimento": "1983-05-31",
+                "tipoDependenciaCod": 3,
+                "tipoEscolaridadeCod": 1,
+                "tipoEstadoCivilCod": 1,
+                "documentos": [
+                    {
+                        "cpf": "999.999.999-99",
+                        "rg": {
+                            "numeros": "137387-12",
+                            "entidadeClasseCod": 1,
+                            "uf": "MT",
+                            "dataEmissao": "2001-12-31"
+                        }
+                    }
+                ]
+            },
+            {
+                "nome": "Maria Filha de Exemplo",
+                "sexo": "F",
+                "dataNascimento": "1988-05-31",
+                "tipoDependenciaCod": 3,
+                "tipoEscolaridadeCod": 1,
+                "tipoEstadoCivilCod": 1,
+                "documentos": [
+                    {
+                        "cpf": "123.123.123-00",
+                        "rg": {
+                            "numeros": "",
+                            "entidadeClasseCod": "",
+                            "uf": "MT",
+                            "dataEmissao": "2001-12-31"
+                        }
+                    }
+                ]
+            },
+            {
+                "totalRegistrosLote": 2
+            }
+        ]
+    },
+    {
+        "totalRegistrosLote": 1
+    }
+]

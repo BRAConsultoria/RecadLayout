@@ -1,0 +1,66 @@
+[
+    {
+        "nome": "Tipos de Dependência",
+        "descricao": "Layout auxiliar para remessa de tipos de dependência",
+        "versao": "0.0.1",
+        "tipoDependencia": [
+            {
+                "tipoDependenciaCod": 1,
+                "nome": "Cônjuge"
+            },
+            {
+                "tipoDependenciaCod": 2,
+                "nome": "Companheiro"
+            },            
+            {
+                "tipoDependenciaCod": 3,
+                "nome": "Filho menor não emancipado"
+            },            
+            {
+                "tipoDependenciaCod": 4,
+                "nome": "Filho inválido"
+            },            
+            {
+                "tipoDependenciaCod": 5,
+                "nome": "Pai/mãe com dependência econômica"
+            },            
+            {
+                "tipoDependenciaCod": 6,
+                "nome": "Enteado menor não emancipado com dependência econômica"
+            },            
+            {
+                "tipoDependenciaCod": 7,
+                "nome": "Enteado inválido com dependência econômica"
+            },            
+            {
+                "tipoDependenciaCod": 8,
+                "nome": "Irmão menor não emancipado com dependência econômica"
+            },            
+            {
+                "tipoDependenciaCod": 9,
+                "nome": "Irmão inválido com dependência econômica"
+            },            
+            {
+                "tipoDependenciaCod": 10,
+                "nome": "Menor tutelado"
+            },            
+            {
+                "tipoDependenciaCod": 11,
+                "nome": "Neto"
+            },            
+            {
+                "tipoDependenciaCod": 12,
+                "nome": "Ex-cônjuge que receba pensão de alimentos"
+            },            
+            {
+                "tipoDependenciaCod": 13,
+                "nome": "Outros"
+            },            
+            {
+                "tipoDependenciaCod": 14,
+                "nome": "Dependente para fins de imposto de renda"
+            }            
+        ],
+        "totalRegistrosLote": 14
+    }
+]
