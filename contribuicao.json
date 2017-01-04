@@ -1,0 +1,31 @@
+[
+    {
+        "nome": "Contribuição",
+        "descricao": "Layout para remessa de dados das contribuições averbadas",
+        "versao": "0.0.1",
+        "charset": "utf-8",
+        "developer": {
+            "nome": "",
+            "email": "",
+            "celular": "(99)X9999-9999"
+        }
+    },
+    {
+        "888.888.888-88": [
+            {
+                "numeroCertidao": "123456",
+                "cnpj": "99.999.999/0001-99",
+                "cargo": "Analista de Processos",
+                "dataInicio": "1983-05-31",
+                "dataTermino": "1983-10-31",     
+                "tipoRegime": "RPPS/RGPS"
+            },
+            {
+                "totalRegistrosLote": 1
+            }
+        ]
+    },
+    {
+        "totalRegistrosLote": 1
+    }
+]
